@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo]([https://github.com/Akshay3190/Coffee-shop-analysis-by-using-SQL1.png](https://github.com/Akshay3190/Coffee-shop-analysis-by-using-SQL/blob/main/1.png))
+![Company Logo](https://github.com/Akshay3190/Coffee-shop-analysis-by-using-SQL/blob/main/1.png)
 
 
 ## Objective
